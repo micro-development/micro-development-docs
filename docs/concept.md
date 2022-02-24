@@ -46,7 +46,7 @@
 
 ### 传统模式
 
-![传统结构](https://assets.processon.com/chart_image/5f0ec3c6f346fb2bfb26ae43.png)
+![传统结构](https://cdn.ittlr.com/public/micro-development/5f0ec3c6f346fb2bfb26ae43.png)
 
 通过上图可以看出结构基本如下：
 
@@ -63,7 +63,7 @@
 
 ### 微开发模式
 
-![微开发结构](https://assets.processon.com/chart_image/5f0ec723f346fb2bfb26bebb.png)
+![微开发结构](https://cdn.ittlr.com/public/micro-development/5f0ec723f346fb2bfb26bebb.png)
 
 通过上图可以看出结构基本如下：
 
