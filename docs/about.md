@@ -15,7 +15,7 @@
 ## 联系我
 
 - 作者：老君
-- Email：yaimeet@163.com
-- Github: [https://github.com/yaimeet](https://github.com/yaimeet)
+- Email：liujunzheng@ittlr.com
+- Github: [https://github.com/liujunzheng](https://github.com/liujunzheng)
 - QQ/WeChat：823393100
 
